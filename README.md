@@ -1,6 +1,13 @@
 Markdown
 # 🏭 Automatización de POEs con IA bajo Normativa ISO 9001
 
+
+## Presentación del problema a abordar
+•	Descripción de la problemática: En el ámbito de la gestión industrial y operativa en las empresas, la documentación, actualización y correcta asimilación de los Procedimientos Operativos Estándar y manuales de operaciones suele ser un proceso manual, disperso y altamente ineficiente. A menudo, el conocimiento crítico sobre cómo ejecutar una tarea reside de manera informal en la experiencia de operarios o supervisores, generando demoras en la transferencia de saberes, inconsistencias operativas y dificultades al momento de capacitar nuevo personal.
+•	Relevancia: Desarrollar una solución basada en Inteligencia Artificial es relevante porque permite automatizar la transformación de información cruda y desestructurada (como notas de reuniones, audios de procesos o explicaciones informales de planta) en manuales formales, normalizados y comprensibles. Esto reduce drásticamente los tiempos de gestión administrativa, estandariza la calidad operativa y disminuye los márgenes de error humano en la planta.
+
+
+
 ## 🎯 Objetivo del Proyecto
 Desarrollar una Prueba de Concepto (POC) en Python y Jupyter Notebook para transformar notas informales de planta, audios transcritos o descripciones desestructuradas en **Procedimientos Operativos Estándar (POE)** formales, profesionales y estructurados bajo los lineamientos de la norma **ISO 9001**.
 
