@@ -50,6 +50,8 @@ Como complemento visual al procedimiento operativo, se diseñó un prompt para g
   > *"Infografía esquemática y profesional para manual industrial, estilo plano y minimalista, mostrando la transformación de notas informales de planta en un documento estructurado bajo norma ISO 9001, sin textos ilegibles, colores corporativos azul y gris, alta calidad técnica."*
 
 * **Resultado visual obtenido:**
+* <img width="1024" height="1024" alt="Dhu1wX7VvwkkugRQAWrp--0--LvWKE" src="https://github.com/user-attachments/assets/f4b5bdaa-af5c-4fd8-9fb0-b8a17c2ec9d4" />
+
   *(Asegúrate de subir tu archivo de imagen generado, por ejemplo `proceso_poe.png`, a este repositorio y enlazarlo aquí debajo)*
   ![Esquema Conceptual POE ISO 9001](proceso_poe.png)
 
