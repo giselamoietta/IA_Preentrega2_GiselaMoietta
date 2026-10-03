@@ -52,11 +52,7 @@ Como complemento visual al procedimiento operativo, se diseñó un prompt para g
 * **Resultado visual obtenido:**
 * <img width="1024" height="1024" alt="Dhu1wX7VvwkkugRQAWrp--0--LvWKE" src="https://github.com/user-attachments/assets/f4b5bdaa-af5c-4fd8-9fb0-b8a17c2ec9d4" />
 
-  *(Asegúrate de subir tu archivo de imagen generado, por ejemplo `proceso_poe.png`, a este repositorio y enlazarlo aquí debajo)*
-  ![Esquema Conceptual POE ISO 9001](proceso_poe.png)
-
----
-
+ 
 ## 📊 Análisis Crítico de Resultados
 * **Efectividad del Modelo:** El uso del modelo especificado logró estructurar con total precisión las entradas informales de planta, respetando rigurosamente las 6 secciones exigidas por el estándar ISO 9001.
 * **Márgenes de Error Detectados:** Durante las iteraciones iniciales se observó que la falta de delimitadores estrictos en el prompt provocaba ambigüedades en los roles responsables. Esto se corrigió aplicando reglas de *grounding* y restricción de formato estricto, logrando salidas consistentes y libres de alucinaciones operativas.
